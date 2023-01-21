@@ -12,6 +12,6 @@
 ## remove qt5
 * $ sudo apt remove qtcreator
 
-- if error => "variable has incomplete type": false +
-## install binary, version 5.14
+## install from open source licence
+https://www.qt.io/download-qt-installer?hsCtaTracking=99d9dd4f-5681-48d2-b096-470725510d34%7C074ddad0-fdef-4e53-8aa8-5e8a876d6ab4
 
